@@ -1,8 +1,8 @@
-# 🚔 Crime Data Analytics Dashboard (USA – 2020)
+# 🚔 Crime Analytics Dashboard (USA – 2020)
 
 ## 📌 Project Overview
 
-The **Crime Data Analytics Dashboard** is an end-to-end Data Analytics project developed using **Microsoft Excel** and **Microsoft Power BI**. The project analyzes crime incidents reported across the USA during **2020**, transforming raw data into meaningful business insights through data preprocessing, data modeling, DAX calculations, and interactive visualizations.
+The **Crime Analytics Dashboard** is an end-to-end Data Analytics project developed using **Microsoft Excel** and **Microsoft Power BI**. The project analyzes crime incidents reported across the USA during **2020**, transforming raw data into meaningful business insights through data preprocessing, data modeling, DAX calculations, and interactive visualizations.
 
 The dataset was cleaned, transformed, and validated in Microsoft Excel before being imported into Power BI for dashboard development.
 
@@ -329,9 +329,5 @@ Crime-Data-Analytics/
 
 **Senior MIS Executive | Data Analyst**
 
-### Tools & Skills
-- Microsoft Excel
-- Microsoft Power BI
-- DAX
 - Data Analytics
 - Business Intelligence.
