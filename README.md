@@ -290,14 +290,11 @@ The project follows a **Star Schema** data model.
 
 ## 📁 Project Structure
 
-```text
 Crime-Data-Analytics/
 │
 ├── Dataset/
-│   └── Crime_Data.csv
-│
-├── Excel/
-│   └── Data_Preprocessing.xlsx
+│   ├── Crime Data 1.csv
+│   └── Cleaned Data.xlsx
 │
 ├── PowerBI/
 │   └── Crime_Analytics_Dashboard.pbix
