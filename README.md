@@ -288,17 +288,6 @@ The project follows a **Star Schema** data model.
 
 ---
 
-## 💡 Business Recommendations
-
-- Increase police patrols in high-crime areas.
-- Prioritize long-pending investigations.
-- Improve case closure rates.
-- Strengthen crime prevention initiatives.
-- Enhance public safety awareness programs.
-- Use data-driven insights for effective resource allocation.
-
----
-
 ## 📁 Project Structure
 
 ```text
