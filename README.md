@@ -315,7 +315,6 @@ Crime-Data-Analytics/
 - Data Transformation
 - Data Validation
 - Data Modeling
-- Star Schema Design
 - DAX Calculations
 - Dashboard Development
 - Data Visualization
@@ -331,4 +330,3 @@ Crime-Data-Analytics/
 **Senior MIS Executive | Data Analyst**
 
 - Data Analytics
-- Business Intelligence.
