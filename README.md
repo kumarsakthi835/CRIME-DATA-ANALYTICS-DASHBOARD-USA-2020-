@@ -170,16 +170,113 @@ The project follows a **Star Schema** data model.
 
 ## 🔍 Key Insights
 
-### Overall Statistics
+### 📊 Overall Crime Statistics
 
-| Metric | Value |
-|--------|-------|
-| Total Crime Records | 500 |
-| Open Cases | 323 |
-| Closed Cases | 177 |
-| Average Victim Age | 33.12 Years |
-| Crime Categories | 21 |
-| Reporting Areas | 21 |
+- **500** crime incidents were analyzed from the 2020 dataset.
+- **323 cases (64.60%)** remain under investigation.
+- **177 cases (35.40%)** have been successfully closed.
+- The **average victim age is 33.12 years**.
+- The dataset contains **21 unique crime categories** across **21 reporting areas**.
+
+---
+
+### 📅 Monthly Crime Trends
+
+- **August** recorded the highest number of reported crimes with **261 incidents**.
+- **April** was the second-highest month with **230 incidents**.
+- Crime occurrences fluctuate throughout the year, indicating seasonal variations.
+
+---
+
+### 🚔 Crime Category Analysis
+
+| Crime Category | Incidents |
+|----------------|----------:|
+| Aggravated Assault | **208** |
+| Robbery | **65** |
+| Weapon Offense | **36** |
+| Domestic Violence | **34** |
+
+**Insights**
+- Aggravated Assault accounts for approximately **42%** of all reported crimes.
+- Robbery is the second most frequently reported crime category.
+- Violent crimes make up a significant share of the dataset.
+
+---
+
+### 👤 Victim Demographics
+
+#### Gender Distribution
+
+| Gender | Percentage |
+|--------|-----------:|
+| Male | **28%** |
+| Female | **24%** |
+| Unknown | **12%** |
+
+**Insights**
+- Male victims represent the largest identified victim group.
+- Female victims account for nearly one-quarter of all reported victims.
+- Some records contain unknown gender values, indicating incomplete demographic information.
+
+---
+
+#### Victim Age Distribution
+
+| Age Group | Percentage |
+|-----------|-----------:|
+| Adult | **29.27%** |
+| Child | **21.95%** |
+| Young Adult | **21.95%** |
+| Teen | **13.41%** |
+| Senior Citizen | **13.41%** |
+
+**Insights**
+- Adults represent the largest victim group.
+- Children and Young Adults together account for **43.90%** of victims.
+- Crime affects all age groups, emphasizing the need for targeted public safety measures.
+
+---
+
+### 🔫 Weapon Analysis
+
+| Weapon Category | Incidents |
+|----------------------------|----------:|
+| Strong-arm Methods | **106** |
+| Handgun | **74** |
+| Unknown Weapon | **36** |
+| Unknown Firearm | **35** |
+| Knife (≤6 inches) | **25** |
+| Semi-Automatic Pistol | **24** |
+
+**Insights**
+- Strong-arm methods were involved in over **100** reported crimes.
+- Handguns are the second most commonly used weapon.
+- Firearms and knives collectively contribute to a significant portion of violent crimes.
+
+---
+
+### 📂 Investigation Status
+
+| Status | Count | Percentage |
+|--------|------:|-----------:|
+| Open Cases | **323** | **64.60%** |
+| Closed Cases | **177** | **35.40%** |
+
+**Insights**
+- Nearly **2 out of every 3** reported crimes remain unresolved.
+- The current case closure rate is **35.40%**, highlighting opportunities to improve investigation efficiency.
+
+---
+
+### 📌 Business Recommendations
+
+- Increase police patrols during **August** and other high-crime periods.
+- Prioritize reducing the **323 pending investigations**.
+- Focus crime prevention initiatives on **Aggravated Assault** and **Robbery**.
+- Strengthen weapon control strategies for **Strong-arm assaults** and **Firearm-related crimes**.
+- Improve data quality by reducing records with unknown demographic information.
+- Use geographic crime analysis to allocate law enforcement resources more effectively.
 
 ### Major Findings
 
